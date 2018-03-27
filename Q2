@@ -1,0 +1,6 @@
+x = 1
+y = 1
+z = 100
+    while x < z:
+        print x
+        x,y and y,x,y
